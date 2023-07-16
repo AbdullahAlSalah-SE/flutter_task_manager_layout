@@ -96,7 +96,7 @@ class TaskItemWidget extends StatelessWidget {
                     ),
                     Text(
                       // title,
-                      'Replacement mouse required',
+                      '$title',
                       style: TextStyle(
                         fontSize: 18.0,
                         fontWeight: FontWeight.bold,

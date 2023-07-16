@@ -32,7 +32,7 @@ class _MyAppState extends State<MyApp> {
       debugShowCheckedModeBanner: false,
       // home: Splash_Page(),
       // initialRoute: Splash_Page.routename,
-      initialRoute: Home_screen.routename,
+      initialRoute: Login_screen.routename,
       routes: AppRoutes.route,
     );
   }

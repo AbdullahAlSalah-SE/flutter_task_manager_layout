@@ -3,6 +3,7 @@
 import 'package:carousel_slider/carousel_slider.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 import 'package:easy_localization/easy_localization.dart' as localized;
 import 'package:intl/intl.dart';
@@ -28,6 +29,7 @@ part '../utils/lang/app_lang_key.dart';
 part '../utils/lang/app_lang.dart';
 part '../utils/svg/app_svg.dart';
 part '../utils/constant/app_icons.dart';
+part '../utils/constant/app_lists.dart';
 //*widgets
 part '../widgets/home_screen/home_custom_card.dart';
 part '../widgets/_WaveCustomPaint.dart';
@@ -36,6 +38,7 @@ part '../widgets/home_screen/home_screens_card.dart';
 part '../widgets/profile_screen/Switch_tile_list.dart';
 part '../widgets/profile_screen/custome_listtie.dart';
 part '../widgets/mytask_screen/TaskItemWidget.dart';
+part '../widgets/text_field_container.dart';
 //*views
 part '../views/home_screen.dart';
 part '../views/profile_screen.dart';
