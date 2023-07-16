@@ -1,7 +1,7 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/itsherifAhmed">
+  <a href="https://github.com/AbdullahAlSalah-SE">
     <img src="assets/quran.png" alt="Logo" width="100" height="100">
   </a>
 

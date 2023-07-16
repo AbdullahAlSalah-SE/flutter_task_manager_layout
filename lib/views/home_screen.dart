@@ -3,7 +3,7 @@ part of '../imports/app_imports.dart';
 class Home_screen extends StatelessWidget {
   const Home_screen({super.key});
 
-  static const routename = '/H';
+  static const routename = '/';
 
   @override
   Widget build(BuildContext context) {

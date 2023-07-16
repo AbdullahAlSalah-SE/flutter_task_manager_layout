@@ -2,7 +2,7 @@ part of '../imports/app_imports.dart';
 
 class Login_screen extends StatelessWidget {
   Login_screen({super.key});
-  static const routename = '/';
+  static const routename = '/l';
 
   String name = '';
   FocusNode myFocusNode = new FocusNode();

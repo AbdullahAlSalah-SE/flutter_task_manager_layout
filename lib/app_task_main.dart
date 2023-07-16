@@ -34,7 +34,7 @@ class Task_mainapp extends StatelessWidget {
             // themeMode: ThemeMode.dark,
             // themeMode: manageTheme.themeMode,
             //* root (/)
-            initialRoute: Login_screen.routename,
+            initialRoute: Home_screen.routename,
             routes: AppRoutes.route,
           );
         });
